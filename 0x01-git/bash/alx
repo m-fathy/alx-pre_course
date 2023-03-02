@@ -1,6 +1,3 @@
 #!/bin/bash
-ALX
-ALX
-#!/bin/bash
-ALX
-ALX
+echo "The school is open!"
+
